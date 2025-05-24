@@ -16,14 +16,15 @@
     html, body {
       height: 100%;
       width: 100%;
-      overflow: hidden;
+      /* overflow: hidden; */ /* Remove or comment out this line */
     }
 
     body {
-      background-color: #1e1e1e;
+      background-color: #87CEFA; /* Match the container's background */
       display: flex;
       justify-content: center;
-      align-items: center;
+      align-items: flex-start;
+      min-height: 100vh;
     }
 
     .container {
@@ -36,6 +37,7 @@
       padding: 20px; /* Add some padding */
       background-color: #87CEFA; /* Light blue background */
       box-sizing: border-box; /* Include padding in width/height calculations */
+      margin-top: -25px; /* Add space from the very top */
     }
 
     .header {
