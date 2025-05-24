@@ -12,7 +12,7 @@ const firebaseConfig = {
   storageBucket: "wealth-wise-cdff0.appspot.com",
   messagingSenderId: "236778243947",
   appId: "1:236778243947:web:1c815a671c487509ecae2e",
-  databaseURL: "https://wealth-wise-cdff0-default-rtdb.firebaseio.com"
+  databaseURL: "https://wealth-wise-cdff0-default-rtdb.asia-southeast1.firebasedatabase.app/"
 };
 
 // ✅ Safe init
