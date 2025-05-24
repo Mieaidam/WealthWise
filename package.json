@@ -1,0 +1,27 @@
+{
+  "name": "wealthwise",
+  "version": "1.0.0",
+  "description": "Financial literacy educational web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mieaidam/WealthWise.git"
+  },
+  "keywords": [
+    "financial",
+    "education",
+    "money"
+  ],
+  "author": "Mieaidam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mieaidam/WealthWise/issues"
+  },
+  "homepage": "https://github.com/Mieaidam/WealthWise#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
